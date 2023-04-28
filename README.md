@@ -115,8 +115,8 @@ Thats it now you can execute your program on terminal:)
 
 👤 **Alwyn Androvelle**
 
-- GitHub: [@githubhandle](https://github.com/thoth1111)
-- Twitter: [@twitterhandle](https://twitter.com/androvelle)
+- GitHub: [@Thoth1111](https://github.com/thoth1111)
+- Twitter: [@androvelle](https://twitter.com/androvelle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/alwyn-androvelle-simiyu/)
 
 👤 **Kaung Myat Kyaw**
